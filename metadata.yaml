@@ -1,0 +1,32 @@
+_repo: Admirals-of-the-British-NavyPortraits-in-Colours-with-Introductory-and-Biographical-Notes_41399
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Dodd, Francis
+    birthdate: 1874
+    deathdate: 1949
+    gutenberg_agent_id: '41161'
+    url: http://www.gutenberg.org/2009/agents/41161
+covers:
+- cover_type: archival
+  image_path: 41399-h/images/cover2.jpg
+description: ''
+gutenberg_issued: '2012-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41399'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Biography'
+- !lcsh 'Admirals -- Great Britain'
+tableOfContents: Jellicoe -- Burney -- Madden -- Phillimore -- Bacon -- de Robeck
+  -- Napier -- Brock -- Halsey -- Pakenham -- Paine -- Tyrwhitt.
+title: 'Admirals of the British Navy
+
+  Portraits in Colours with Introductory and Biographical Notes'
+url: http://www.gutenberg.org/ebooks/41399
