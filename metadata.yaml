@@ -11,6 +11,8 @@ covers:
 - cover_type: archival
   image_path: 41399-h/images/cover2.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41399#Admirals-of-the-British-NavyPortraits-in-Colours-with-Introductory-and-Biographical-Notes
 gutenberg_issued: '2012-11-18'
 gutenberg_type: Text
 identifiers:
